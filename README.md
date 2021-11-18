@@ -5,4 +5,4 @@
 4. In App Dismiss Action
 5. In application redirection with custom link
 
-### Please read comments in application MainActivity for proper understanding
+### Please read comments in application MainActivity for proper understanding.
